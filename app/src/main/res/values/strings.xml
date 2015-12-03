@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMapApp</string>
+    <string name="title_activity_test_map">TestMap</string>
+    <string name="my_location_label">LocationEx</string>
+</resources>
